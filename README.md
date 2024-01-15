@@ -1,37 +1,12 @@
 # Record user scores
-Developed with Nodejs Express Mysql React Axios Tailwind
-![Logo](https://github.com/donnie3237/DosE3/blob/main/banner.png)
+![Logo]([https://github.com/donnie3237/DosE3/blob/main/banner.png](https://cdn.discordapp.com/attachments/1196340381080625242/1196340399862730843/image.png?ex=65b745d2&is=65a4d0d2&hm=bbce9bd7fc8d5d8a67e28fc5f41f8b0058783fef2622e4070574d303b7524b99&))
 
-### To install
 
-```
-npm i -g dose3
-```
-
-## Script
-```
-dose -v  ----> check version
-dose update  ----> update version
-dose scan  ----> scan runing port
-dose kill <YOUR PORT> ----> kill port
-dose ----> start new project
-```
-
-## Tool Require
-* Git<br/>
-* Vscode<br/>
-* NodeJS<br/>
-* Rust (tauri)
-  
 ## Framework & Library
 * ReactJS 
-* SolidJS
-* VueJS 
-* Astrojs
+* Nodejs
 * ExpressJS
-* Fastify
-* Nextjs
-* Actix-web
-* Tauri
-* Slidev
+* Mysql
+* Axios
+* Tailwind
 <br/>
